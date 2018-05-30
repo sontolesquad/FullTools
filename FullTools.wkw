@@ -8,8 +8,8 @@
 ######################################################################
 ######################################################################
 Author="	AMRiezz		"
-Support="	MR.1M81	&& MR.RSA && RYUKI-KUN 	"
-THANKS="	ALL MEMBER ISL........."
+Support="	MR.Sontolex && MR.H && Hijabers 	"
+THANKS="	ALL MEMBER Banyumas Cyber Team........."
 xxx() {
 	read -p "B/Back or E/Exit : " be
 	if [ $be = B ];
@@ -40,20 +40,20 @@ echo $white"""\a
 		Author 		: AMRiezz
 		Version		: 1.0
 		code		: bash
-		powered by 	: Indonesia Security Lite
+		powered by 	: Banyumas Cyber Team
 		Github		: 
 				  https://github.com/Amriez
-				  https://github.com/4L13199
+				  https://github.com/sontolesquad
 		site		: 
 				  http://anrwiki.blogspot.com
-				  http://www.kumandroid.ml
+				  http://persit2k18.ga and https://sontolesquad.blogspot.com/
 		Youtube		:
-				  Indonesia Security Lite
+				  Sontole Squad
 				  AMRiezz z
 		Thanks to	:
-				  MR.1M81 -- MR.RSA 
+				  MR.H -- Hijabers
 
-		~~ All Member indonesia Security Lite ~~
+		~~ All Member Banyumas Cyber Team ~~
 
 """
 xxx
@@ -64,17 +64,17 @@ xxx
 ######################################################################
 ##################################################################
 ##								##
-##	INDONESIA SECURITY LITE <3				##
+##	Banyumas Cyber Team <3				        ##
 ##	Made by : AMRiezz					##
 ##	Code	: Bash,Shell					##
 ##	Version	: 1.0						##
-##	Indonesia Security Lite copyright(c)			##
+##	Banyumas Cyber Team copyright(c)			##
 ##	AMRsystem copyright (c)					##
 ##								##
 ##	Thanks To :						##
-##	MR.1M81 && MR.RSA && ZS.WIN4TA && M3.ex && Ryuki	##
+##	MR.H && Hijabers && GayAnon && CyberClay && Miss.proxy	##
 ##								##
-##	And All member Isl					##
+##	And All member BCT	 				##
 ##								##
 ##								##
 ##								##
@@ -243,7 +243,7 @@ echo '''\a
 \033[34;1m *	\033[36;1m	_ ___ _  _ _  _ _  _ \033[34;1m	   *		*
 \033[34;1m	*\033[36;1m	|  |  |\/| |  |  \/ \033[34;1m  *           *
 \033[34;1m*	\033[36;1m	|  |  |  | |__| _/\_    \033[34;1m      *
-\033[34;1m    *	\033[31;1m	Powered By : Indonesia Security Lite\033[34;1m	*
+\033[34;1m    *	\033[31;1m	Powered By : Banyumas Cyber Team\033[34;1m	*
 \033[39;1m		Made by	   : AMRiezz
 \033[34;1m  *	    *	\033[31;1mI\033[39;1mnstall-\033[31;1mT\033[39;1mools-ter\033[31;1mMUX\033[34;1m	
 *		*
@@ -256,7 +256,7 @@ echo '''
 \033[34;1m  	   *\033[36;1m	_    _ ___ ____ ___ ____ ____ _    ____ \033[34;1m		*
 \033[34;1m 	*   	\033[36;1m|    |  |  |___  |  |  | |  | |    [__  \033[34;1m  *
 \033[34;1m  *		\033[36;1m|___ |  |  |___  |  |__| |__| |___ ___] \033[34;1m	*
-\033[34;1m    \033[31;1m		Powered By : \033[39;1mIndonesia Security Lite		 \033[34;1m   *
+\033[34;1m    \033[31;1m		Powered By : \033[39;1mBanyumas Cyber Team		 \033[34;1m   *
 \033[34;1m	*					*		*
 '''
 }
